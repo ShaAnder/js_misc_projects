@@ -35,7 +35,7 @@ This section will be divided into three sections, one for small projects and ide
 
 ### [Projects](https://github.com/ShaAnder/Misc_JS_Portfolio_Projects/tree/main/projects)
 
-#### Countdown Timer
+#### [Countdown Timer](https://github.com/ShaAnder/Misc_JS_Portfolio_Projects/tree/main/projects/coundown_timer)
 
 A small countdown timer written in JS HTML and CSS that allows the user to set a time via an input and counts down. Then changes the screen on completion
 
