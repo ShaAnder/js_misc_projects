@@ -11,7 +11,7 @@
 2. [Misc Projects](#misc-projects)
    - [Projects](#projects)
    - [Small Apps](#small-apps)
-        [Scientific Calculator](#scientific-calculator)
+   * [Scientific Calculator](#scientific-calculator)
    - [Tools And Scripts](#tools-and-scripts)
 
 ## Document Introduction
