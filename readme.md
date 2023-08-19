@@ -43,6 +43,10 @@ A small countdown timer written in JS HTML and CSS that allows the user to set a
 
 ### [Small Apps](https://github.com/ShaAnder/Misc_JS_Portfolio_Projects/tree/main/apps)
 
+#### [Countdown Timer](https://github.com/ShaAnder/Misc_JS_Portfolio_Projects/tree/main/apps/calculator)
+
+A small calculator application, with the ability to do all the main functions of a scientific calculator
+
 [Back To Top](#Portfolio)
 
 ### [Tools And Scripts](https://github.com/ShaAnder/Misc_JS_Portfolio_Projects/tree/main/tools_scripts)
