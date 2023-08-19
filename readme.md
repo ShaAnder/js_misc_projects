@@ -43,7 +43,7 @@ A small countdown timer written in JS HTML and CSS that allows the user to set a
 
 ### [Small Apps](https://github.com/ShaAnder/Misc_JS_Portfolio_Projects/tree/main/apps)
 
-#### [Countdown Timer](https://github.com/ShaAnder/Misc_JS_Portfolio_Projects/tree/main/apps/calculator)
+#### [Scientific Calculator](https://github.com/ShaAnder/Misc_JS_Portfolio_Projects/tree/main/apps/calculator)
 
 A small calculator application, with the ability to do all the main functions of a scientific calculator
 
