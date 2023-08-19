@@ -11,7 +11,6 @@
 2. [Misc Projects](#misc-projects)
    - [Projects](#projects)
    - [Small Apps](#small-apps)
-      * [Scientific Calculator](#scientific-calculator)
    - [Tools And Scripts](#tools-and-scripts)
 
 ## Document Introduction
@@ -34,22 +33,18 @@ Much like my main portfolio all code showcased in this portfolio (unless specifi
 
 This section will be divided into three sections, one for small projects and ideas i want to build, one for small scale applications and one for tools and scripts that I build as I go.
 
-### [Projects](https://github.com/ShaAnder/Misc_JS_Portfolio_Projects/tree/main/projects)
+### Projects
 
-#### [Countdown Timer](https://github.com/ShaAnder/Misc_JS_Portfolio_Projects/tree/main/projects/coundown_timer)
+#### Countdown Timer
 
 A small countdown timer written in JS HTML and CSS that allows the user to set a time via an input and counts down. Then changes the screen on completion
 
 [Back To Top](#Portfolio)
 
-### [Small Apps](https://github.com/ShaAnder/Misc_JS_Portfolio_Projects/tree/main/apps)
-
-#### [Scientific Calculator](https://github.com/ShaAnder/Misc_JS_Portfolio_Projects/tree/main/apps/calculator)
-
-A small calculator application, with the ability to do all the main functions of a scientific calculator
+### Small Apps
 
 [Back To Top](#Portfolio)
 
-### [Tools And Scripts](https://github.com/ShaAnder/Misc_JS_Portfolio_Projects/tree/main/tools_scripts)
+### Tools And Scripts
 
 [Back To Top](#Portfolio)
