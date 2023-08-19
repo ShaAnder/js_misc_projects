@@ -1,1 +1,54 @@
-Will populate as project is completed, this readme is designed as a technical breadown of how it works
+# SCIENTIFIC CALCULATOR
+
+## Table Of Contents
+
+     [Introduction](#introduction)
+        [What Is It](#what-is-it)
+        [Why This?](#why-this?)
+
+    [Project Brief](#project-brief)
+        [In Depth Description](#in-depth-description)
+        [Required Parameters](#required-parameters)
+        [Working Rundown](#how-it-works)
+
+    [Learning Points & Takeaway](#learning-points-&-takeaway)
+
+    [Version History](#version-history)
+
+    [Misc](#misc)
+
+## Introduction
+
+The scientific calculator app is a small app I wanted to create using HTML CSS and JS to showcase the skills I have learnt, while maths was not a subject i was empassioned by when in school it is something I have grown to deeply enjoy and have always wanted to build some things related to it, this is the first step
+
+### What Is It
+
+At it's core it's a scientific calculator, it's designed to act in the same way as a physical one and as such should have all the working functions of a scientific calculator including the computation that one can do.
+
+### Why This?
+
+As I said in the introduction I have become empassioned with maths in my later years and want to build apps and programs around it, this is the first step in a series of projects I will create to help people enjoy the subject more
+
+## Project Brief
+
+### In Depth Description
+
+The calculator at it's core is a series of button elements that can be clicked to execute mathmatic equations and operations such as recording the button click (numbers) to the screen, functions like addition, subtraction and even more complex conversions like sin cos and tan, ect.
+
+### Working Breakdown
+
+The program works in 2 ways,
+
+First we have the HTML and CSS to build the basic calculator structure, this will serve to create the basic look / design as well as also all the buttons for us to click
+
+Secondly we have the JS running in the background which is there to click the button elements and execute the functions that each button represents, for arguments sake if we record numbers and click the sin cos or tan it will convert the number and calculator to that mode
+
+## Learning Points & Takeaway
+
+This project is going to test what I know so far and encourage me to learn more for all 3 languages (html, css, js) the end result is that id like to build a fully working application that can be used on mobile or desktop to act as a tool for math solving.
+
+## Version History
+
+v.01 - Created basic code structure for the calculator look and design
+
+## Misc
