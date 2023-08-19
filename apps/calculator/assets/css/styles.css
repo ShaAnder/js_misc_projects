@@ -8,7 +8,7 @@
 
 body {
   /* font stuff*/
-  font-family: "Edu SA Beginner", sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: 800;
   height: 100vh;
   color: #ffffff;
@@ -41,7 +41,7 @@ body {
   height: 350px;
   box-sizing: border-box;
   margin: 40px auto 0;
-  font-family: "Edu SA Beginner", sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .calculator .form-control {
   height: 60px;
