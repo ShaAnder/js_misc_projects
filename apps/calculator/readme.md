@@ -1,5 +1,8 @@
 # SCIENTIFIC CALCULATOR
 
+![image](https://github.com/ShaAnder/Misc_JS_Portfolio_Projects/assets/129494996/4dce0017-c704-4c15-81bd-a681037a7848)
+
+
 ## Table Of Contents
 
      [Introduction](#introduction)
