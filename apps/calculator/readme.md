@@ -66,8 +66,9 @@ This project is going to test what I know so far and encourage me to learn more 
 
 ## Version History
 
-v.01 - Created basic code structure for the calculator look and design
-v.02 - Added basic functions and core calculation functionality, double checked with other calculators to see if it worked
+- v.01 - Created basic code structure for the calculator look and design
+- v.02 - Added basic functions and core calculation functionality, double checked with other calculators to see if it worked
+- v.03 - Did a sweep of refactoring to clean up the code base and optimize it, swapped from an if else chain to an object and function calling
 
 ## TODO
 
